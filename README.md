@@ -1,5 +1,5 @@
 # install-cuda9.0-cdnn-tf-gpu
-describe the faults that I've made in installing cuda9.0+cdnn+tf-gpi 
+describe the faults that I've made in installing cuda9.0+cdnn+tf-gpu 
 1.I should turn to the offical website for the compatible visios of each.
 2.The latest vision is't always the best, since there are many compatibility problems.
 3.I should learn to solve problems with logic analyses.
